@@ -1,1 +1,3 @@
 This is Demo of Git Repositary.
+please follow these steps to create git
+It's very easy process
